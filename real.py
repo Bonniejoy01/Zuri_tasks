@@ -32,7 +32,7 @@ while True:
             print("Computer chooses :", computer)
             print("Player chooses :", player)
             print("Hurray you Win !!")
-    elif player == "p":
+    elif player == "P":
         if computer == "S":
             print("Computer chooses :", computer)
             print("Player chooses :", player)
@@ -46,4 +46,3 @@ while True:
     if play_again != "yes":
         break
 print("Bye, Thanks for Playing....")
-# End of the code
